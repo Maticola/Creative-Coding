@@ -3,6 +3,7 @@ Creative Coding content for my AI and Data Science Course
 
 # 👾 Creative Coding 👾
 
+```text
   ____                _   _             
  / ___|_ __ ___  __ _| |_(_)_   _____   
 | |   | '__/ _ \/ _` | __| \ \ / / _ \  
